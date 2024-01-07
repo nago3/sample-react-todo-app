@@ -1,4 +1,4 @@
-# React Todo App sample
+# React Todo App sample - TypeScript
 
 ## Commands
 
